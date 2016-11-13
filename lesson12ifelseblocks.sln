@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson11ifelseblocks", "lesson11ifelseblocks\lesson11ifelseblocks.csproj", "{4EEE3DC7-1B43-48BB-ADC9-776350A57554}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson12ifelseblocks", "lesson11ifelseblocks\lesson12ifelseblocks.csproj", "{4EEE3DC7-1B43-48BB-ADC9-776350A57554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
